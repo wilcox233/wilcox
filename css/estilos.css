@@ -1,0 +1,13 @@
+*{margin: 0px;
+padding: 0px}
+body {background-color: #efab54}
+header {height: 100px;
+width: 100%;text-decoration: underline;
+;
+color:black;
+padding: 0px;
+line}
+.ingredientes {text-decoration: underline;}
+.preparacion {text-decoration: underline;}
+.tituloprincipal{display: flex;justify-content: center;
+height: 70px}

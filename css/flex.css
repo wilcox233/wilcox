@@ -1,0 +1,34 @@
+header{display: flex; justify-content: center; flex-wrap: wrap;
+justify-content: space-between;
+}
+.video {display: flex;justify-content: flex-start; padding: 0px;}
+.flex-container{
+  display: flex; justify-content:space-around;
+  background-color: #94110a;
+  padding: 20px;
+  color: white;border: 7px solid white}
+.inicio{color: white;
+  font-family: monospace;
+  font-weight: ;
+  width: 130px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  margin: px;
+text-decoration: none;}
+.tituloprincipal{line-height: 100px;
+display: flex;justify-content: flex-end;}
+.icon1{width: 60px;height: 60px;
+display: flex;}
+.icon2{width: 60px;height: 60px;
+display: flex;}
+.icon3{width: 60px;height: 60px;
+display: flex;}
+.icon4{width: 60px;height: 60px;
+display: flex;}
+.footer{display: flex;justify-content: space-between;text-align: center;
+align-items: flex-end;}
+.redes {display: flex;justify-content: space-between;}
+.cocinero{height: 120px;width: 120px;display: flex;}
+.redes2{display: flex;justify-content: flex-end;align-items: flex-end;
+justify-content:space-between;}
